@@ -1,0 +1,7 @@
+admin
+  admin@gmail.com
+  123
+
+user
+  zia@mail.com
+  0987
